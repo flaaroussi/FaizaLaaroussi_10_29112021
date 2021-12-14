@@ -1,8 +1,6 @@
-# FaizaLaaroussi_10_29112021
+
 
 # Learn@Home
-
-(projet fictif de formation n°07/11 avec OpenClassrooms)
 
 > PROBLEMATIQUE
 
@@ -12,20 +10,20 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 
 Maquettes de l'application de soutien scolaire en ligne comprenant les interfaces suivantes :
 
-- page d'accueil
-- inscription
-- connexion
-- tableau de bord
-- gestion de l'agenda
-- gestion des tâches
-- messsagerie
+- Page d'accueil
+- Inscription
+- Connexion
+- Tableau de bord
+- Gestion de l'agenda
+- Gestion des tâches
+- Messsagerie & chat
 - Profil
 
 ## Livrables
 
-- fiches de fonctionnalités (use cases)
-- scénarii utilisateurs (user stories)
-- maquettes UI/UX desktop + mobile
+- Fiches de fonctionnalités (use cases)
+- Scénarii utilisateurs (user stories)
+- Maquettes UI/UX desktop + mobile
 
 ## Compétences développées
 
